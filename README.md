@@ -10,7 +10,7 @@ MagicalPE
 MPが必要．MPは時間で回復です．
 
 
-MagicalPE
+About
 ---------------------------------
 This plugin is a magical system using double sneaks.
 You can choose magic by kind of a inhand item.

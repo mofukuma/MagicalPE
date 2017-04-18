@@ -1,0 +1,8 @@
+name: MagicalPE
+main: MagicalPE\MagicalPE
+version: 0.1.0
+api: [1.10.0, 1.13.0, 2.0.0]
+load: STARTUP
+author: mofukuma
+description: Available the magical skill system using double sneaks.
+website: http://mofukuma.com

@@ -1,5 +1,7 @@
 #MagicalPE#
 
+[![Poggit-CI](https://poggit.pmmp.io/ci.badge/mofukuma/MagicalPE/MagicalPE)](https://poggit.pmmp.io/ci/mofukuma/MagicalPE/MagicalPE)
+
 このプラグインはスニークを2回押すことで魔法を唱えることができます．
 手に持ったアイテムで唱える魔法が変わります．
 いまのところヒールしか実装してないです．
